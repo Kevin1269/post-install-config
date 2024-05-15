@@ -43,29 +43,50 @@ Configure Teams
 
 a. Admin Panel -> Agents -> Teams
 
-Level I Support
+i. Level I Support
 
-Level II Support
+ii. Level II Support
 
 Allow anyone to create tickets
-Admin Panel -> Settings -> User Settings
-Registration Required: Require registration and login to create tickets 
+
+a. Admin Panel -> Settings -> User Settings
+
+b. Registration Required: Require registration and login to create tickets 
+
 Configure Agents (workers)
-Admin Panel -> Agents -> Add New
-Jane
-John
+
+a. Admin Panel -> Agents -> Add New
+
+i. Jane
+
+ii. John
+
 Configure Users (customers)
-Agent Panel -> Users -> Add New
-Karen
-Ken
+
+a. Agent Panel -> Users -> Add New
+
+i. Karen
+
+ii. Ken
+
 Configure SLA
-Admin Panel -> Manage -> SLA
-Sev-A (1 hour, 24/7)
-Sev-B (4 hours, 24/7)
-Sev-C (8 hours, business hours)
+
+a. Admin Panel -> Manage -> SLA
+
+i. Sev-A (1 hour, 24/7)
+
+ii. Sev-B (4 hours, 24/7)
+
+iii. Sev-C (8 hours, business hours)
+
 Configure Help Topics
-Admin Panel -> Manage -> Help Topics
-Business Critical Outage
-Personal Computer Issues
-Equipment Request
-Password Reset
+
+a. Admin Panel -> Manage -> Help Topics
+
+i. Business Critical Outage
+
+ii. Personal Computer Issues
+
+iii.Equipment Request
+
+iv.Password Reset
